@@ -296,3 +296,13 @@ cd Movie-Ticket-Booking-System
 clang++ -std=c++17 main.cpp -o movie_booking
 4. Run
 ./movie_booking
+
+## 📐 UML Class Diagram
+
+![UML Class Diagram](docs/uml.jpeg)
+
+## 🔄 Sequence Diagram
+
+![Sequence Diagram](docs/sequence.jpeg)
+
+## 🧩 SOLID Principles
